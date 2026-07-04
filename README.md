@@ -1,2 +1,2 @@
-# CD-Launcher-ES
-Sólo lanza los juegos.
+Bueno este es un simple proyecto que hice en un fin de semana, el único propósito es realmente solo lanzar juegos con un CDs, porque está chido. Esto no fue originalmente pensado para ser publicado, pero pensé que sería interesante publicarlo aunque nadie lo use. Es un proyecto muy novato, sólo quería hacerlo para pasar el rato, y aprender un poco más te python. Es lento, no sirve de nada, pero me gustó y está bonito.
+Lo único que se debe de hacer es modificar el JSON en sí, y es funcional para todo.
